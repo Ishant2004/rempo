@@ -3,13 +3,13 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Shubhankar-12/quicksell-frontend-assignment
+   git clone https://github.com/Ishant2004/rempo.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd kanban-board-app
+   cd rempo
    ```
 
 3. **Install Dependencies:**
@@ -24,5 +24,5 @@
    npm start
    ```
 
-5. **Access the Application:**
+5. **Access the Webpage:**
    Open your browser and go to `http://localhost:3000`.
